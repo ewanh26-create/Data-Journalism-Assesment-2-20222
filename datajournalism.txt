@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IMF Lending Story</title>
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      background-color: #f4f1ea;
+      margin: 0;
+      padding: 0;
+      color: #222;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fffdf8;
+      padding: 40px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.05);
+    }
+
+    h1, h2 {
+      font-weight: bold;
+      color: #222;
+      line-height: 1.25;
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: 2.2rem;
+    }
+
+    h2 {
+      margin-top: 55px;
+      border-top: 2px solid #ddd;
+      padding-top: 25px;
+      font-size: 1.8rem;
+    }
+
+    p {
+      line-height: 1.7;
+      margin-bottom: 18px;
+      font-size: 17px;
+    }
+
+    .embed {
+      margin: 40px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <h1>The Geography of Economic Intercedence; Mapping IMF Lending</h1>
+
+    <p>In February 2026, the IMF (Internation Monetary Fund) released a further $2.3 billion to Egypt as a part of the now expanded $8 billion bailout programme which had originally only pledged $3 billion when it began in 2022.</p>
+
+    <p>This release of funds brings Egypt’s total outstanding credit to the IMF to almost $7.5 billion, third in the world behind Ukraine’s $10 billion and Argentina’s colossal $41 billion. While this event is being framed as a sign of stability and progress for the Egyptian economy, it is only one event in a broader pattern.</p>
+
+    <p>Across the global economy, only a few countries, located in a few regions of the world, account for the vast majority of IMF lending through repeated requests for financial support. The IMF at its inception was designed and presented as the ‘lender of last resort’ to stabilise countries and regions in times of financial crisis. However, the data suggests that as the structure of the global economy has evolved through the late 20th and now 21st century, IMF programmes have become recurring features of the economic health for some countries.</p>
+
+    <p>The data demonstrates that IMF lending clusters in three key regions; Sub-Saharan Africa, Latin America and many parts of the Middle East. Meanwhile Western Europe, North America and East Asia display little to no reliance on the IMF.</p>
+
+    <p>This highlights not just the imbalances between wealth and economic stability throughout the global economy. It also demonstrates the inequality of financial independence between countries and regions across the world. IMF loans are given on conditional bases which shape and constrain the structure of the economies, and policy decisions of governments which rely on IMF intervention.</p>
+
+    <p>While trends appear between regions, some countries individually account for massive shares of IMF lending.</p>
+
+    <div class="embed">
+      <div class="flourish-embed flourish-chart" data-src="visualisation/28672500"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28672500/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+    </div>
+
+    <p>Argentina, Egypt, Pakistan and Ukraine have historically dominated IMF lending with numerous large bailout programmes throughout the 21st century. Argentina holds the record for the most engagement with the IMF with 23 loans and bailouts since it joined the IMF in 1956. An important note about Ukraine is that while it has received a huge amount of war time emergency investment from the IMF since the beginning of the Russian invasion in 2022, Ukraine’s history with the IMF predates the war with multiple large bailout programmes similar to the other countries on the list since 1992.</p>
+
+    <p>This raises an important question about the IMF: if IMF programmes are designed to stabilise economies, why do some countries keep reengaging with the IMF?</p>
+
+    <p>Officially, the IMF’s role is to provide temporary financial assistance to states experiencing balance-of-payments crises. This financial assistance in theory should stabilise the country’s economic management and allow for the return of economic independence.</p>
+
+    <p>However, the data seems to show that in many cases the crises are not one-off events, rather that they are cyclical.</p>
+
+    <div class="embed">
+      <iframe title="All Extended Arrangments (EFF) 2008-2026" aria-label="Line chart" id="datawrapper-chart-2rXGH" src="https://datawrapper.dwcdn.net/2rXGH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="456" data-external="1"></iframe>
+      <script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+    </div>
+
+    <p>Global IMF lending spikes around the obvious global economic shocks as expected such as during the 2008 financial crash and the Covid-19 pandemic.</p>
+
+    <p>However, within these global trends the same countries keep emerging as major beneficiaries of IMF lending.</p>
+
+    <p>This suggests that IMF programmes, despite their conditionality, will in practice only address the symptoms of instability without resolving the underlying causes.</p>
+
+    <p>There is no single explanation for why this is the case. However, many structural factors have been observed, described and discussed by political and economic research.</p>
+
+    <p>One of these factors is structural debt and the external vulnerability which is associated with high rates of borrowing and reliance on earnings from foreign currency exchange. States with these economic traits experience global economic shocks more sharply as interests’ rates and the prices of commodities shift.</p>
+
+    <p>Currency instability is another key factor which drives states towards the repeated need for IMF bailouts. While the IMF mainly addresses balance-of-payments crises, a weak or unstable currency often creates conditions in which states cannot keep up with the cost of imports or debt repayments.</p>
+
+    <p>Lastly, the conditionality of the IMF loans themselves is thought to result in the need for repeated borrowing. The IMF, by requiring the liberalisation of markets, a reduction in public spending and an increase in taxes reduces the rate of economic growth in the short term in countries which seek loans from them.</p>
+
+    <p>With this unequal concentration of the IMF lending, the role of the IMF itself can be called into question.</p>
+
+    <p>On one hand the IMF provides essential funding to countries in crisis. Without this, states would fall into devastating economic collapse. However, the pattern of repeat engagement may suggest that IMF programmes contribute to cycles of dependency. Cycles in which many countries become trapped relying on external financial assistance rather than achieving long term economic stability.</p>
+
+    <p>This tension lies at the heart of the international debate around the IMF and its role in the Global economy.</p>
+
+    <p>By diving deeper into the IMF data, we find that the IMF is not just an international economic safety net. It is a map which displays which economies are most vulnerable in the world.</p>
+
+    <p>For countries like Egypt, Argentina and Pakistan, borrowing from the IMF is not an exceptional event. Rather it is a recurring feature in the story of their evolving and developing economies.</p>
+
+    <p>The causes and effects of IMF lending plays an essential role in the global economy and as such should be understood not just by economists and academic.</p>
+
+    <h2>Egypt’s Economy is Recovering, But for Who?</h2>
+
+    <p>Inflation in Egypt has surged over the last two years, driving up the cost of food, fuel and everyday essentials. The quality of life for many regular Egyptians have continued to squeeze as wages struggle to keep up with the rising cost of living.</p>
+
+    <p>Driving these changes is a wide sweeping set of economic reforms by the Egyptian government they have made in compliance with an $8 billion agreement with the IMF (International Monetary Fund).</p>
+
+    <p>The supporters of these reforms claim that they are necessary to reestablish economic stability and support long term growth. Meanwhile critics point to the immediate social costs of the reforms. But the question remains; Are these economic reforms working?</p>
+
+    <p>In February 2026 the IMF released a further $2.3 billion following a review as a part of their broader $8 billion reform programme. The IMF cited signs of economic stabilisation in their announcement of the release of funds.</p>
+
+    <p>IMF reform programmes are not simply just bailouts, rather they are conditional agreements which require governments to implement a plethora of economic policies. In Egypt’s case these include devaluing the Egyptian Pound, reducing public spending, increasing interest rates and restructuring key sectors of the economy.</p>
+
+    <p>These policies are designed to address Egypt’s ongoing balance-of-payments crisis, bring stability to the economy and restore confidence in Egypt to foreign investors. But they also reshape the domestic economy in ways which directly affect real people.</p>
+
+    <p>By examining key economic indicators, we can begin to analyse whether and how these economic reforms are working.</p>
+
+    <p>This timeline displays the progression of Egypt’s IMF reform programme showing its sequence of reforms and the release of funds. This will allow us to contextualise the wider data on the development of the Egyptian economy since the programme began.</p>
+
+    <div class="embed">
+      <div class="flourish-embed flourish-timeline" data-src="visualisation/28673114"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28673114/thumbnail" width="100%" alt="timeline visualization" /></noscript></div>
+    </div>
+
+    <p>One of the biggest effects of the reform programme is the sharp rise in inflation from is the wildly unstable inflation rate which has persisted through the programme.</p>
+
+    <p>Following the currency devaluation, the relative cost of imports has increased sharply. Food and energy costs in particular are maintaining sustained pressure on the household finances of regular Egyptians.</p>
+
+    <p>Inflations rates are expected to stabilise over time as the reforms take effect, however, in the meantime the economic pressure and insecurity which have been inflicted on to Egyptian families has been severe. This has been further exacerbated recently by the war in Iran leaving Egyptians in greater uncertainty.</p>
+
+    <div class="embed">
+      <div class="flourish-embed flourish-chart" data-src="visualisation/28673281"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28673281/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+    </div>
+
+    <p>Central to the reform programme is the devaluation of the Egyptian Pound.</p>
+
+    <p>A weaker currency can help improve the balance of trades in international markets by making exports more competitive. However, consequently the relative costs of imports increase alongside the relative costs of foreign debt repayments.</p>
+
+    <p>The data follows the IMF’s stated objectives with the Egyptian Pound’s value falling in conjunction with major milestones in the reform programme. This contributes to the rampant inflation domestically in Egypt and the sharp rise of the cost of living.</p>
+
+    <div class="embed">
+      <div class="flourish-embed flourish-chart" data-src="visualisation/28673335"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28673335/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+    </div>
+
+    <p>Despite these pressures on domestic spending, there have been a stabilisation of Egypt’s GDP. This suggests macroeconomic improvement stemming from the IMF programme.</p>
+
+    <p>This stabilisation of GDP does suggest that the Egyptian economy is improving. However, economic growth at the national level does not necessarily translate to improving conditions at the individual level.</p>
+
+    <div class="embed">
+      <div class="flourish-embed flourish-chart" data-src="visualisation/28673379"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28673379/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+    </div>
+
+    <p>While macroeconomic data suggest progress, social indicators tell a more complicated story.</p>
+
+    <p>The reduction in public spending by the Egyptian government alongside the rise of inflation have placed a huge strain on lower income Egyptian households. The cost of basic goods has risen quicker than wages intensifying the economic pressures on those already heavily affected by the Egyptian economic crisis.</p>
+
+    <div class="embed">
+      <div class="flourish-embed flourish-chart" data-src="visualisation/28673461"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28673461/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+    </div>
+
+    <p>This tension is not unique to Egypt. It is a central debate surrounding IMF programmes: to what extend should the financial wellbeing of individuals be sacrificed with policies designed to support long term macroeconomic stability?</p>
+
+    <p>Egypt is often used as an ideal example of a successful IMF programme. International institutions such as the IMF and World Bank praise Egypt for their willingness to implement structural reforms.</p>
+
+    <p>However, whether the programmes have been truly successful depends on how success itself is measured.</p>
+
+    <p>By focusing purely on macroeconomic indicators, Egypt’s IMF programme has been a clear success story of reform and recovery. However, if we shift our focus to living standards and social outcomes the picture becomes much less clear.</p>
+
+    <p><strong>For Egypt, the question is no longer whether reform and recovery are happening, but for who.</strong></p>
+
+  </div>
+</body>
+</html>
